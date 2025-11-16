@@ -1,2 +1,0 @@
-Username = Nazish 
-Password =abc12345
