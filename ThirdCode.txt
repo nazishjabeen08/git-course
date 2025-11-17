@@ -1,7 +1,3 @@
 Third file
 
-<<<<<<< HEAD
-I am making changes to test new branch feature1
-=======
 Adding to test 
->>>>>>> f6e4c368683bb22259f57f964b3d63d2cba8607b
